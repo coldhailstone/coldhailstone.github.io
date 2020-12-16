@@ -7,6 +7,7 @@ tags:
   - study
   - whiteship
 toc: true
+toc_sticky: true
 toc_label: "목차"
 ---
 
