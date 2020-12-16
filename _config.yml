@@ -98,6 +98,8 @@ author:
   bio              : "당신은<br>지금도 충분히 괜찮은 사람이다."
   location         : "서울특별시"
   email            : "cksn1993@gmail.com"
+  github           : "coldhailstone"
+  steam            : "76561198348830351"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -113,7 +115,7 @@ author:
       url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/coldhailstone"
+      url: 
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url:
@@ -129,7 +131,7 @@ footer:
       url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/coldhailstone"
+      url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       url:
