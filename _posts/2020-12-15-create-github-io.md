@@ -1,10 +1,10 @@
 ---
-title: "Github.io 블로그 구축 완료"
+title: 'Github.io 블로그 구축 완료'
 categories:
-  - Gossip
+    - Gossip
 tags:
-  - blog
-  - github.io
+    - blog
+    - github.io
 comments: true
 ---
 
