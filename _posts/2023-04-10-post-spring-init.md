@@ -12,12 +12,12 @@ toc_label: '목차'
 
 [Spring Initializr](https://start.spring.io/)를 사용하여 Spring Boot 프로젝트 생성
 
->https://start.spring.io/
+>[https://start.spring.io](https://start.spring.io/)
 
 ![spring-init](/assets/images/spring-init.png)
 
 ## Project
-`빌드 관리 도구`
+`빌드 관리 도구 선택`
 
 | 옵션                | 설명                                                   |
 |-------------------|:-----------------------------------------------------|
@@ -43,6 +43,7 @@ toc_label: '목차'
 | `RC(Release Candidate)` | 기능 개선과 버그 수정이 완료되었으나, 최종적으로 릴리즈되지는 않은 버전 |
 
 ## Project Metadata
+`프로젝트 설정`
 
 | 필드              | 설명                                               |
 |----------------|:-------------------------------------------------|
