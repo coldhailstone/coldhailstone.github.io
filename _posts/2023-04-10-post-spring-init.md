@@ -27,7 +27,7 @@ toc_label: '목차'
 # 학습내용
 >https://start.spring.io/
 
-![spring-init](/assets/images/spring-init.png)
+![spring-init](./assets/images/spring-init.png)
 
 ## Project
 `빌드 관리 도구`
@@ -84,4 +84,4 @@ web 프로젝트 추천 라이브러리
 4. 압축해제한 파일의 build.gradle 선택 후 프로젝트 열기
 5. 프로젝트 실행 후 다음과 같이 실행되면 성공
 
-![spring-run](/assets/images/spring-run.png)
+![spring-run](./assets/images/spring-run.png)
