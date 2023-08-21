@@ -1,9 +1,9 @@
 ---
 title: 'Spring Annotation 정리 - @Controller, @Service, @Repository, @Component'
 categories:
-    - Study
+    - 공부
 tags:
-    - spring
+    - Spring
 comments: true
 toc: true
 toc_sticky: true

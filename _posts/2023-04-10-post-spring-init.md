@@ -1,9 +1,9 @@
 ---
 title: 'Spring initializr 사용하기'
 categories:
-    - Study
+    - 공부
 tags:
-    - spring
+    - Spring
 comments: true
 toc: true
 toc_sticky: true
