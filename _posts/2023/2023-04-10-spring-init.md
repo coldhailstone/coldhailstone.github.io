@@ -15,7 +15,7 @@ toc_label: '목차'
 
 >[https://start.spring.io](https://start.spring.io/)
 
-![spring-init](/assets/images/2023-04-10/spring-init.png)
+![spring-init](/assets/images/2023/04-10/spring-init.png)
 
 ## Project
 빌드 관리 도구 선택
@@ -73,4 +73,4 @@ Spring Boot 버전 선택 - 접미사 없는 버전이 안정화 버전
 4. 압축해제한 파일의 build.gradle 선택 후 프로젝트 열기
 5. 프로젝트 실행 후 다음과 같이 실행되면 성공
 
-![spring-run](/assets/images/2023-04-10/spring-run.png)
+![spring-run](/assets/images/2023/04-10/spring-run.png)
