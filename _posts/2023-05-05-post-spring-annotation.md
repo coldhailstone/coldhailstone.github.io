@@ -9,10 +9,6 @@ comments: true
 toc: true
 toc_sticky: true
 toc_label: '목차'
-toc_icon: "bars"
-header:
-  overlay_image: https://images.unsplash.com/photo-1501785888041-af3ef285b470?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
-  overlay_filter: 0.5
 ---
 
 Spring Framework는 Java 기반의 웹 애플리케이션 개발을 위한 프레임워크로, 객체지향적인 개발 방식을 적극적으로 활용한다. 이러한 객체지향적인 개발을 지원하기 위해 Spring은 여러 개의 Annotation을 제공하고 있다. 이번 글에서는 Spring Annotation 중에서 가장 대표적인 4가지 Annotation인 `@Controller`, `@Service`, `@Repository`, `@Component`를 정리해보고자 한다.
