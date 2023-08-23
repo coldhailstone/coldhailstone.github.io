@@ -3,7 +3,7 @@ title: 'Spring Annotation 정리 - @Controller, @Service, @Repository, @Componen
 categories:
     - TIL
 tags:
-    - Spring
+    - 스프링
 author_profile: false
 comments: true
 toc: true

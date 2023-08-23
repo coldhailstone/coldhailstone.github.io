@@ -3,7 +3,7 @@ title: 'Spring initializr 사용하기'
 categories:
     - TIL
 tags:
-    - Spring
+    - 스프링
 author_profile: false
 comments: true
 toc: true
