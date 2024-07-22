@@ -1,15 +1,10 @@
-function solution(a, b, c) {
-    // let answer;
-    // const [min1, min2, max] = [a, b, c].sort((a, b) => a - b);
-    // answer = min1 + min2 > max ? 'YES' : 'NO';
-    let answer;
-    let sum = a + b + c;
-    let max = a;
-    if (max < b) max = b;
-    if (max < c) max = c;
-    answer = sum - max > max ? 'YES' : 'NO';
+function solution(n) {
+    let answer = 0;
+    for (let i = 1; i <= n; i++) {
+        answer += i;
+    }
     return answer;
 }
 
-console.log(solution(6, 7, 11));
-console.log(solution(13, 33, 17));
+console.log(solution(6));
+console.log(solution(10));
